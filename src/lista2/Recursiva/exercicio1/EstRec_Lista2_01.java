@@ -1,3 +1,9 @@
+/*
+ OBJETIVO: Construir uma função recursiva que receba 2 valores A e B e, por somas, apresente o resultado da mul􀆟plicação de A por B.
+ PROGRAMADOR: THAIS ANANDA
+ DATA DE CRIAÇÃO: 01/03/2026
+ */
+
 package lista2.Recursiva.exercicio1;
 
 import javax.swing.*;

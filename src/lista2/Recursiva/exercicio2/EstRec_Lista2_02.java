@@ -1,3 +1,10 @@
+/*
+ OBJETIVO: Construir uma função recursiva que receba o dividendo e o divisor de uma operação de divisão e, por subtrações, exiba o resto da divisão.
+ PROGRAMADOR: THAIS ANANDA
+ DATA DE CRIAÇÃO: 01/03/2026
+ */
+
+
 package lista2.Recursiva.exercicio2;
 
 import javax.swing.*;
