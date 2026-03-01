@@ -1,4 +1,4 @@
-package lista2.Recursiva;
+package lista2.Recursiva.exercicio2;
 
 public class ControllerEx02 {
 	

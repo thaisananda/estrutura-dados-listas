@@ -4,7 +4,7 @@
  DATA DE CRIAÇÃO: 01/03/2026
  */
 
-package lista2.Recursiva;
+package lista2.Recursiva.exercicio4;
 
 import javax.swing.*;
 

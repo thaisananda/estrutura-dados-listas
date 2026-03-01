@@ -1,4 +1,4 @@
-package lista2.Recursiva;
+package lista2.Recursiva.exercicio6;
 
 import javax.swing.JOptionPane;
 
