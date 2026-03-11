@@ -2,9 +2,9 @@ package lista1.ordenacao.quicksort;
 
 import ordenacao.QuickSort;
 
-public class Controller_Ex01 {
+public class Controller_Ex05a {
 	
-	public Controller_Ex01() {
+	public Controller_Ex05a() {
 		super();
 	}
 
