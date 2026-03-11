@@ -1,4 +1,4 @@
-package lista1.ordenacao.quicksort;
+package lista1.quicksort.exercicio5a;
 
 public class QuickSort_Lista1_05_a {
 
