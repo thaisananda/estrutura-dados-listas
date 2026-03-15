@@ -13,7 +13,7 @@ public class BubbleSort {
 		// Rodadas
 		for (int i = 0; i < tamanho - 1; i++) {
 			
-			System.out.println("Rodada #" + i);
+			//System.out.println("Rodada #" + i);
 			
 			for (int j = 0; j < tamanho - 1 - i; j++) {
 				

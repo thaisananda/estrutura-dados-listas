@@ -7,7 +7,7 @@ public class MergeSort {
 	}
 	
 	public int[] mergeSort(int[] vetor, int inicio, int fim) {
-		System.out.println("Vetor da posição " + inicio + " até " + fim);
+		//System.out.println("Vetor da posição " + inicio + " até " + fim);
 		
 		if (inicio < fim) {
 			int meio = (inicio + fim) / 2;
