@@ -46,4 +46,30 @@ public class PilhaInt {
 	        return contador;
 	    }
 	
+	 public int max() throws Exception {
+		    if (isEmpty()) {
+		        throw new Exception("Pilha vazia");
+		    }
+
+		    PilhaInt aux = new PilhaInt();
+		    int maior = topo.dado;
+
+		    // percorre a pilha
+		    while (!isEmpty()) {
+		        int valor = pop();
+
+		        if (valor > maior) {
+		            maior = valor;
+		        }
+
+		        aux.push(valor);
+		    }
+
+		    // restaura a pilha original
+		    while (!aux.isEmpty()) {
+		        push(aux.pop());
+		    }
+
+		    return maior;
+		}
 }
