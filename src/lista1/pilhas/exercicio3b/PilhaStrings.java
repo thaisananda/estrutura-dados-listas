@@ -1,7 +1,5 @@
 package lista1.pilhas.exercicio3b;
 
-import lista1.pilhas.exercicio3b.No;
-
 public class PilhaStrings {
 	
 private No topo;
