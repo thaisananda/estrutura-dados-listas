@@ -1,4 +1,6 @@
-package lista1.pilhas_exercicio3b;
+package lista1.pilhas.exercicio3b;
+
+import lista1.pilhas.exercicio3b.No;
 
 public class PilhaStrings {
 	
