@@ -33,4 +33,17 @@ public class PilhaInt {
 		topo = topo.proximo;
 		return valor;
 	}
+	
+	 public int size() {
+	        int contador = 0;
+	        No auxiliar = topo;
+	        
+	        while (auxiliar != null) {
+	            contador++;
+	            auxiliar = auxiliar.proximo;
+	        }
+	        
+	        return contador;
+	    }
+	
 }
