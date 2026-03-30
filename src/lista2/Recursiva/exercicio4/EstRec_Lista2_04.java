@@ -1,5 +1,5 @@
 /*
- OBJETIVO: Construir uma função recursiva que receba um número inteiro posi􀆟vo ímpar N e retorne o fatorial duplo desse número
+ OBJETIVO: Construir uma função recursiva que receba um número inteiro positivo ímpar N e retorne o fatorial duplo desse número
  PROGRAMADORA: THAIS ANANDA
  DATA DE CRIAÇÃO: 01/03/2026
  */
